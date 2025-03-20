@@ -1,0 +1,2 @@
+offb:tracker
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/ljw/uav_offb/devel -DCMAKE_INSTALL_PREFIX=/home/ljw/uav_offb/install -G Unix Makefiles

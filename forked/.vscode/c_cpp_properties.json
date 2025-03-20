@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "name": "windows-gcc-x64",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "compilerPath": "gcc",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
