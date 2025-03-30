@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xsh/catkin_ws/devel/lib/libmodules__logger.a  CMakeFiles/modules__logger.dir/logger.cpp.o CMakeFiles/modules__logger.dir/log_writer.cpp.o CMakeFiles/modules__logger.dir/log_writer_file.cpp.o CMakeFiles/modules__logger.dir/log_writer_mavlink.cpp.o CMakeFiles/modules__logger.dir/watchdog.cpp.o
+/usr/bin/ranlib /home/xsh/catkin_ws/devel/lib/libmodules__logger.a

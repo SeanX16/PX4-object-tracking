@@ -1,0 +1,2 @@
+offb_test:tracker
+-DCATKIN_DEVEL_PREFIX=/home/xsh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xsh/catkin_ws/install -G Unix Makefiles

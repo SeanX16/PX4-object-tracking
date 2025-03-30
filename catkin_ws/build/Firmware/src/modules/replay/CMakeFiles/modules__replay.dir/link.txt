@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xsh/catkin_ws/devel/lib/libmodules__replay.a  CMakeFiles/modules__replay.dir/replay_main.cpp.o
+/usr/bin/ranlib /home/xsh/catkin_ws/devel/lib/libmodules__replay.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xsh/catkin_ws/devel/lib/libdrivers__airspeedsim.a  CMakeFiles/drivers__airspeedsim.dir/airspeedsim.cpp.o CMakeFiles/drivers__airspeedsim.dir/meas_airspeed_sim.cpp.o
+/usr/bin/ranlib /home/xsh/catkin_ws/devel/lib/libdrivers__airspeedsim.a

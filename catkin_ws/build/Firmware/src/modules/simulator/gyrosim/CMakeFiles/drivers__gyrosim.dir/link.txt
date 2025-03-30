@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xsh/catkin_ws/devel/lib/libdrivers__gyrosim.a  CMakeFiles/drivers__gyrosim.dir/gyrosim.cpp.o
+/usr/bin/ranlib /home/xsh/catkin_ws/devel/lib/libdrivers__gyrosim.a
