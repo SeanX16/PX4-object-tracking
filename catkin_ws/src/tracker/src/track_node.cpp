@@ -96,7 +96,8 @@ void doImg(const sensor_msgs::Image::ConstPtr &msg) {
         if(now - last_find_time < ros::Duration(5)) {
             ROS_INFO("Target not found...");
         } else {
-            // 无人机丢失目标五秒后，开始向上飞行（扩大视野）来搜寻小车，搜寻的最高高度是无人机跟踪小车高度的两倍，这也是前面代码中控制无人机下降的原因，若无人机在升空过程中发现目标小车，会立刻下降跟踪小车
+            // 无人机丢失目标五秒后，开始向上飞行（扩大视野）来搜寻小车，搜寻的最高高度是无人机跟踪小车高度的两倍
+            // 这也是前面代码中控制无人机下降的原因，若无人机在升空过程中发现目标小车，会立刻下降跟踪小车
             if(curH < 2 * h - 1) {
                 ROS_INFO("Ascending to search, current altitude: %.2f", curH);
                 velocity.linear.z = hv;
