@@ -26,6 +26,6 @@ Watch the tracking system in action: [Video Link](https://youtu.be/inMaT1OWmWI)
 
 ## Acknowledgements
 
-Thanks to my supervisor and the Department of ELEL at CityUHK.
+Thanks to my supervisor and the EE Department at CityUHK.
 
 This project builds upon open-source tools from the PX4, ROS, and OpenCV communities.
