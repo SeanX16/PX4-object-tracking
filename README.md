@@ -2,8 +2,6 @@
 
 This repository contains the source code and documentation for my final year project. The project simulates an autonomous UAV that tracks a moving ground robot (TurtleBot3) using visual input from a downward-facing camera.
 
----
-
 ## Features
 
 - Visual target detection using OpenCV
@@ -14,8 +12,7 @@ This repository contains the source code and documentation for my final year pro
 
 ## Demo Video
 
-Watch the tracking system in action:  
-[Video Link](https://youtu.be/inMaT1OWmWI)
+Watch the tracking system in action: [Video Link](https://youtu.be/inMaT1OWmWI)
 
 ## Environment
 
