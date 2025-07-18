@@ -23,6 +23,9 @@ Watch the system in action:
 
 ---
 
+## ✦ LICENSE
+
+This project uses MIT LICENSE.
 ## ✦ Environment
 
 - VMware Workstation 16 Player  
