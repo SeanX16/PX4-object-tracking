@@ -44,4 +44,5 @@ This project builds upon open-source tools from the PX4, ROS, and OpenCV communi
 
 ## ✦ LICENSE
 
-This project uses MIT LICENSE.
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it with proper attribution.
