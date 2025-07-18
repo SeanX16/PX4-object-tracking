@@ -23,9 +23,6 @@ Watch the system in action:
 
 ---
 
-## ✦ LICENSE
-
-This project uses MIT LICENSE.
 ## ✦ Environment
 
 - VMware Workstation 16 Player  
@@ -42,3 +39,9 @@ This project uses MIT LICENSE.
 
 Thanks to my supervisor and the Department of Electrical Engineering at CityUHK.  
 This project builds upon open-source tools from the PX4, ROS, and OpenCV communities.
+
+---
+
+## ✦ LICENSE
+
+This project uses MIT LICENSE.
